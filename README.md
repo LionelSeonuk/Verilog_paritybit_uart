@@ -1,5 +1,5 @@
 # Parity bit UART
-implementation that adds parity bits to ensure data integrity of UART, a serial communication protocol
+Implementation that adds parity bits to ensure data integrity of UART, a serial communication protocol
 
 ![image](https://github.com/LionelSeonuk/Verilog_paritybit_uart/assets/167200555/0c4dc52d-0b5e-416f-819a-62e08dfbebd6)
 ![image](https://github.com/LionelSeonuk/Verilog_paritybit_uart/assets/167200555/b59d26e1-ed31-46fb-8a00-d972dfb2d8e6)
